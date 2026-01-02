@@ -1,0 +1,47 @@
+*{
+    color: white;
+    /* background-color: black; */
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center ; */
+    /* margin-top: 20px; */
+    font-size: larger;
+
+}
+body{
+    background-image: url("HD-wallpaper-black-horse.jpg");
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: blanchedalmond;
+}
+#inputdiv{
+    display: flex;
+    justify-content: center;
+
+}
+input{
+      border: 3px solid rgb(176, 169, 159);
+    background-color: transparent;
+    border-radius: 15px;
+    color: black;
+}
+li{
+text-align: center;
+margin: 15px;
+color: rgb(68, 236, 197);
+}
+button{
+    margin-left: 15px;
+    border: 3px solid rgb(119, 200, 181);
+    /* background-color: rgb(47, 122, 214); */
+    border-radius: 10px;
+    font-size: large;
+    background-color: transparent;
+}
+button:hover{
+    cursor: pointer;
+}
+
